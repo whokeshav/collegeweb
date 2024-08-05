@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Computer Science and Engineering",
+      "slug": "guitar-fundamentals",
+      "description": "The Department came into inception from year 2018-19 with an intake of 60 seats as B.Tech CEIT (Computer Engineering & Information Technology) branch. Later on in the year 2019-20, two more AICTE approved streams such as Computer Engineering (60 seats) and Computer Science (60 seats) were introduced in the department, in addition to CEIT.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/photos/csgroup.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Computer Science & Engineering (Artificial Intelligence & Machine Learning)",
+      "slug": "Computer Science & Engineering (Artificial Intelligence & Machine Learning)",
+      "description": "The ABES Engineering College offers four year under-graduate B.Tech.(CSE-AIML) course with specialization in Artificial Intelligence and Machine Learning with an intake of 180 seats. ",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/photos/event3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Information Technology",
+      "slug": "Information Technology",
+      "description": "The Department of Information Technology at ABES Engineering College Ghaziabad was established in the year 2000. The department runs 4-year full-time Bachelor of Technology in Information Technology (B.Tech. - IT) program with total intake of 180 students. The program is currently accredited by National Board of Accreditation (NBA).",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/photos/g (16).jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mechanical Engineering ",
+      "slug": "Mechanical Engineering ",
+      "description": "Transforming students into professionals is not an easy task. It takes dedication, experience, and willingness to deliver the necessary and relevant knowledge. Since 2003, the department of mechanical engineering at ABES is known to be transforming 120 students into professional engineers each year.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/photos/g (6).jpg"
+    },
+    {
+      "id": 5,
+      "title": "Electronics and Communication Engineering",
+      "slug": "Electronics and Communication Engineering",
+      "description": "The Department of Electronics & Communication Engineering at ABES Engineering College Ghaziabad was established in the year 2000. The department runs a four-year full-time B.Tech program and a two-year full-time M.Tech program in Electronics & Communication Engineering",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/photos/g (3).jpg"
+    },
+    {
+      "id": 6,
+      "title": "Applied Sciences & Humanities",
+      "slug": "Applied Sciences & Humanities",
+      "description": "Department of Applied Sciences and Humanities (ASH) is dedicated to lay the foundation for students in the fields of fundamental sciences and humanities, like Physics, Chemistry, Mathematics and Professional Communication",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/photos/event3.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Electrical & Electronics Engineering (EN)",
+      "slug": "Electrical & Electronics Engineering (EN)",
+      "description": "The program B. Tech. in Electrical& Electronics Engineering was accredited by NBA for 3 years from 2017 till 2020 and then got further extension for one year till 2021. Currently, the department is re-accredited for 3 years with validity till 2024.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/photos/csgroup.jpeg"
+    }
+  ]
+}
